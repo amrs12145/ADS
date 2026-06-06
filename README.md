@@ -17,3 +17,6 @@ https://github.com/amrs12145/ADS
 
 # DockerHub
  https://hub.docker.com/r/amrs12145/ads-dental-cli
+ 
+# JAR
+check releases
